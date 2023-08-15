@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 50px;
+  text-decoration: none;
+  color:cadetblue
+}
+
+.title {
+  margin-bottom: 10px;
+}
